@@ -16,3 +16,22 @@ Why are functions important?
     Divide a complex problem into simpler ones.
     Reduces chances of error.
     Modifying a program becomes easier by using function.
+    
+    There can be 4 different types of user-defined functions, they are:
+
+    Function with no arguments and no return value.
+    Function with no arguments and a return value.
+    Function with arguments and no return value.
+    Function with arguments and a return value.
+    
+    Most importantly is to understand how to write a function.
+    
+    If you get to know this then learning them becomes easy.
+    
+    Steps to Writing a Function
+
+    Understand the purpose of the function.
+    
+    Define the data that comes into the function from the caller (in the form of parameters)!
+    Define what data variables are needed inside the function to accomplish its goal.
+    Decide on the set of steps that the program will use to accomplish this goal.
